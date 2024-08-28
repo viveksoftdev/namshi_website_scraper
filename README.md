@@ -8,11 +8,11 @@
 ### selenium
 ### webdriver_manager
 
-### url: The URL to scrape product information from.
-### wait: Implicit wait time for elements to load.
+#### url: The URL to scrape product information from.
+#### wait: Implicit wait time for elements to load.
 
-## main_page_product_links_scrape_to_csv method
-### Scrapes product links from the main page and saves them to a CSV file.
+#### main_page_product_links_scrape_to_csv method
+#### Scrapes product links from the main page and saves them to a CSV file.
 
-## scrape_links
-### Scrapes product details from the product links and saves the information to a CSV file.
+#### scrape_links
+##### Scrapes product details from the product links and saves the information to a CSV file.
